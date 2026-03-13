@@ -1,3 +1,5 @@
+//author @Sayantan
+//version 1.0
 public class OOPSBannerUC6 {
 
     public static void main(String[] args) {
